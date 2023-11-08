@@ -11,6 +11,5 @@ public class Autos {
 
     public static void startCar(){
     System.out.println("Auto ist gestartet!");
-        System.out.println("Auto ist gestartet!");
     }
 }
